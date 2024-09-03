@@ -70,3 +70,6 @@ http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 https://autopilot.catcast.tv/content/38617/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SD low",Музыка Кино International SD low
 https://kino-1.catcast.tv/content/37739/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SD",Nick Jr SD
+ip.tivix.co/288-nick-jr.html
+
