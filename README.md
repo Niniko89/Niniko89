@@ -22,7 +22,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 http://188.134.76.176:81/udp/235.10.10.77:1234
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="SD",2x2 SD
 http://185.112.140.28:80/2x2/index.m3u8
-#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://epgx.site/p/ryzhy.png" group-title="SD low",Рыжий SD
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://epgx.site/p/ryzhy.png" group-title="SD low",Рыжий SD low
 http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://epgx.site/p/radost-moya.png" group-title="SD",Радость моя SD
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
