@@ -50,7 +50,7 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 http://stream02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1 group-title="SD low",Tiji SD low
 http://sc.id-tv.kz/TiJi_34_35.m3u8
-#EXTINF:-1 group-title="SD",Мульт SD
+#EXTINF:-1 group-title="SD low",Мульт SD low
 http://sc.id-tv.kz/Mult_34_35.m3u8
 #EXTINF:-1 group-title="SD low",Gulli Girl SD low
 http://sc.id-tv.kz/Gulli_34_35.m3u8
@@ -64,3 +64,5 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://88.218.242.237:8000/play/a00f
 #EXTINF:-1 group-title="SD",Мультиландия SD
 http://158.101.194.132:8080/channel/7a0ccc79/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1 group-title="SD",Nickelodeon SD
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
