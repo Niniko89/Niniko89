@@ -66,5 +66,7 @@ http://88.218.242.237:8000/play/a00f
 http://158.101.194.132:8080/channel/7a0ccc79/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 group-title="SD",Nickelodeon SD
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
-#EXTINF:-1 group-title="SD",SOYUZ Multfilm SD
-http://ip.viks.tv/415-soyuzmultfilm.html
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SD low",КИНО-1 INTERNATIONAL SD low
+https://autopilot.catcast.tv/content/38617/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SD low",Музыка Кино International SD low
+https://kino-1.catcast.tv/content/37739/index.m3u8?checkedby:iptvcat.com
