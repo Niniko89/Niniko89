@@ -66,3 +66,5 @@ http://88.218.242.237:8000/play/a00f
 http://158.101.194.132:8080/channel/7a0ccc79/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 group-title="SD",Nickelodeon SD
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 group-title="TEST",Cosmote Sport 1 HD
+https://stream2watch.in/live/733-tv-
