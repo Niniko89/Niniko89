@@ -44,7 +44,7 @@ http://135.181.115.81:8000/play/a01g/index.m3u8?token=livetv
 http://135.181.115.81:8000/play/a00q/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SD",TiJi SD
 http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="SD",МУЛЬТИМАНИЯ SD
+#EXTINF:-1 group-title="SD",Мультимания SD
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="SD",Карусель International SD
 http://stream02.vnet.am/Karusel/mono.m3u8
@@ -60,7 +60,7 @@ http://stream01.vnet.am/Kinosemya/mono.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="HD",CHD TV HD
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="SD low",CARTOON Classics SD low
+#EXTINF:-1 group-title="SD low",Cartoon Classics SD low
 http://88.218.242.237:8000/play/a00f
 #EXTINF:-1 group-title="SD",Мультиландия SD
 http://158.101.194.132:8080/channel/7a0ccc79/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
