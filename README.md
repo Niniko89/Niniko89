@@ -136,8 +136,8 @@ http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP_multkazki/video.m3u8?token=FILM_
 http://158.101.194.132:8080/channel/41661217/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 group-title="SD",Мультиландия SD
 http://158.101.194.132:8080/channel/7a0ccc79/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-
-
+#EXTINF:-1 group-title="SD",PERVIY KANAL SD
+rtmp://perviykanal.com/live.m3u8
 
 
 
