@@ -138,6 +138,6 @@ http://158.101.194.132:8080/channel/41661217/index.m3u8?q=4965b2524bbd5b7c9cadb3
 http://158.101.194.132:8080/channel/7a0ccc79/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 group-title="SD",PERVIY KANAL SD
 rtmp://perviykanal.com/live.m3u8
-
-
+#EXTINF:-1 group-title="SD",PERVIY KANAL 2 SD
+rtmp://perviykanal.com/live
 
